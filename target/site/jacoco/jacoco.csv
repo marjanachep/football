@@ -1,0 +1,8 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+football,com.example.football,FootballApplication,5,3,0,0,2,1,1,1,1,1
+football,com.example.football.service,FanServiceImpl,31,177,2,48,6,20,5,26,3,3
+football,com.example.football.model,Fan,27,39,0,0,13,14,7,7,7,7
+football,com.example.football.model,Match,45,0,0,0,19,0,13,0,13,0
+football,com.example.football.model,Team,31,0,0,0,13,0,9,0,9,0
+football,com.example.football.controller,FirstController,4,3,0,0,2,1,2,1,2,1
+football,com.example.football.controller,FanController,26,3,0,0,6,1,5,1,5,1

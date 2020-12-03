@@ -1,0 +1,10 @@
+com\example\football\repository\MatchRepository.class
+com\example\football\repository\FanRepository.class
+com\example\football\controller\FirstController.class
+com\example\football\FootballApplication.class
+com\example\football\model\Team.class
+com\example\football\model\Fan.class
+com\example\football\service\FanServiceImpl.class
+com\example\football\model\Match.class
+com\example\football\service\FanService.class
+com\example\football\controller\FanController.class
